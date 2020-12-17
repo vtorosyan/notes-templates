@@ -24,7 +24,7 @@
 
 ### What are the constraints I'm operating under?
 
-### What are your current unknowns? How are you planning to get more clarity?
+### What are my current unknowns? How am I planning to get more clarity?
 
 ### What constraints do I believe should be challenged?
 
