@@ -2,9 +2,7 @@
 
 # Chapters review and notes
 
-# Insights
-
-# Takeaway musts
+# Insights and Takeaways
 
 # Actionable items
 
