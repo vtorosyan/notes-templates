@@ -6,9 +6,9 @@
 - https://larahogan.me/blog/first-one-on-one-questions/
 
 ### Feedback & Recognition
--   How do you like feedback - the medium (IRC, email, in person, etc.)
--   How do you like feedback - routine like in 1:1s, or as-it-happens
--   How do you prefer to receive recognition? (public or private)
+- How do you like feedback - the medium (IRC, email, in person, etc.)
+- How do you like feedback - routine like in 1:1s, or as-it-happens
+- How do you prefer to receive recognition? (public or private)
 
 ### Goals and Support
 - What makes 1:1s the most valuable for you?
@@ -16,5 +16,3 @@
 - What do you need from your manager?
 - From your team? 
 - From your peers? (outside the team)
-
-### 
