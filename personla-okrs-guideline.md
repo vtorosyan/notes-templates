@@ -25,16 +25,21 @@ L&D)
 
 ## Template
 
-**Title**​: Explain objective here
-**Motivation​**:​ Outline why this is an objective
-**Status​**: In Progress / Not Started / Achieved / Deferred / Partially Achieved Key results:
+**Title**: Explain objective here
+
+**Motivation**: Outline why this is an objective
+
+**Status**: In Progress / Not Started / Achieved / Deferred / Partially Achieved Key results:
 - Considering logging these in the ​SMART​ goals format
 
 ## Example
 
-**Title**:​ Learn Spark (Q1 2020)
-**Motivation​**:​ There is a high level of motivation and need from my company to promote engineers with Spark knowledge. Given the lack of experts in the company, this will also increase the breadth of contributions I can make.
-**Status​**: In Progress
-**Key results​**:
+**Title**: Learn Spark (Q1 2020)
+
+**Motivation**: There is a high level of motivation and need from my company to promote engineers with Spark knowledge. Given the lack of experts in the company, this will also increase the breadth of contributions I can make.
+
+**Status**: In Progress
+
+**Key results**:
 - Use L&D time to complete the beginner Spark course on Coursera
 - Review ongoing Spark code challenges for hiring applicants for Q1
