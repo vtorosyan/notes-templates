@@ -14,14 +14,14 @@ In order to ensure that we are on track with the change, goals need to be review
 
 When carving out objectives, it is helpful to think about balancing them within these three categories:
 
-1. Personal ambitions and growth
-1.1. Self-reflection is a good input for this
-1.2. Using opportunities company provides can drive the objective (e.g. SAT and
+- Personal ambitions and growth
+  - Self-reflection is a good input for this
+  - Using opportunities company provides can drive the objective (e.g. SAT and
 L&D)
-2. Team and peer needs
-2.1. Peer feedback, manager feedback are a good source for this 
-3. Job expectations and company goals 
-3.1. Career progression frameworks can help to identify areas that can help to improve on)
+- Team and peer needs
+  - Peer feedback, manager feedback are a good source for this 
+- Job expectations and company goals 
+  - Career progression frameworks can help to identify areas that can help to improve on)
 
 ## Template
 
