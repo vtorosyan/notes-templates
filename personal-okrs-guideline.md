@@ -23,6 +23,17 @@ L&D)
 3. Job expectations and company goals 
 3.1. Career progression frameworks can help to identify areas that can help to improve on)
 
+## Thought-provoking questions
+
+- What is something I feel guilty about? Is there anything I can do to feel less guilty?
+- What am I anxious or apprehensive about?
+- Where do I want to be this time next year? What is holding me back? 
+- Am I spending my time wisely? How can I spend my time better?
+- What can I do to step out of my comfort zone?
+- What are the things that make me the most stressed or anxious? Is there anything I can do to alleviate that stress?
+- What are the things that make me feel the most relaxed and happy? How can I do more of that!?
+- What can I do to feel more confident, self-assured, and happier?
+
 ## Template
 
 **Title**: Explain objective here
