@@ -53,4 +53,4 @@ L&D)
 
 **Key results**:
 - Use L&D time to complete the beginner Spark course on Coursera
-- Review ongoing Spark code challenges for hiring applicants for Q1
+- Review ongoing Spark code challenges for hiring applicants for Q1, at least 5
